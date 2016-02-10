@@ -1,0 +1,24 @@
+Aluno: Enzo Roiz
+Matrícula: 2013062839
+
+Código desenvolvido utilizando linguagem Java.
+IDE utilizada: Eclipse.
+O código fonte está dentro da pasta "src".
+
+Sendo os arquivos:
+AFN.java, EscritorArquivo.java, LeitorArquivo.java e Main.javaw
+
+Para executar pelo terminal faça:
+
+java -jar TP1_Enzo_Roiz.jar <NomeArquivoDeEntrada.extensao> <NomeArquivoDeSaida.extensao>
+
+Erro caso:
+- Falte o parâmetro de saída;
+- Não ache o arquivo de entrada.
+- Arquivo de entrada fora do padrão especificado.
+
+OBS.: Seguem anexos dois arquivos usados como teste.
+entrada.txt -> Entrada como a especificação do TP.
+entrada1.txt -> AFN(Lambda) do Exemplo 68, representado na figura 2.20 do livro Introdução aos Fundamentos da Computação, 2006.
+saida.txt -> Saida para o arquivo entrada.txt
+saida1.txt -> Saida para o arquivo entrada1.txt
